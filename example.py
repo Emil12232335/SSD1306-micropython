@@ -1,6 +1,6 @@
 # Import libs
 from machine import Pin, I2C
-from ssd1306 import SSD1306_I2C
+from SSD1306 import SSD1306_I2C
 
 # Set the width and the hight of the display
 WIDTH = 128
